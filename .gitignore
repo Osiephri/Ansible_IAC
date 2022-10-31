@@ -1,0 +1,7 @@
+Terraform_project/INSTANCES/.terraform
+Terraform_project/INSTANCES/.terraform.lock.hcl
+Terraform_project/INSTANCES/ansible_key.pem
+
+Terraform_project/RDS/.terraform
+Terraform_project/RDS/.terraform.lock.hcl
+
